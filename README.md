@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### Contact
+  - 🪶 <a rel="me" href="https://social.wittwer.dev/@felix">Mastodon</a>
+  
+
 <!--
 **felixwttr/felixwttr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
