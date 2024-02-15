@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Contact
-  - 🪶 <a rel="me" href="https://social.wittwer.dev/@felix">Mastodon</a>
+  - 🪶 <a rel="me" href="https://felixwttr.de">felixwttr.de</a>
   
 
 <!--
